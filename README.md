@@ -52,6 +52,7 @@ Routine Care, kullanıcıların cilt sağlığını iyileştirmek, cilt sorunlar
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
+https://github.com/ebrusaki99/Bootcamp_OUA_App/blob/main/daily%20scrum%20f59.docx 
 
 
 - **Sprint board update**: Sprint board screenshotları: 
