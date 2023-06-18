@@ -51,7 +51,7 @@ Routine Care, kullanıcıların cilt sağlığını iyileştirmek, cilt sorunlar
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in takım arkadaşlarının dönem sonu yoğunluğundan ötürü 50 ile başlaması gerektiğine karar verildi. 2. sprint 150 puan, 3. sprint ise 100 puan olarak kararlaştırıldı.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/FurkanPolatt/Vivace_Dinle_ve_ogren/blob/master/ProjectManagement/DailyScrumChatNotesSprint1.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
 
 
 - **Sprint board update**: Sprint board screenshotları: 
